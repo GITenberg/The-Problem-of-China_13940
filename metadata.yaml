@@ -1,0 +1,36 @@
+_repo: The-Problem-of-China_13940
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand Russell, 3d Earl
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
+description: This comprehensive study of China's history and national character was
+  published in 1922, after Russell had spent a year as Professor of Philosophy at
+  the University of Beijing. It is an insightful, and in some ways even prescient,
+  take on a country that seems destined to stand beside America as a superpower of
+  the 21st century.
+gutenberg_issued: '2004-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Civilization'
+- !lcsh 'China -- Foreign relations'
+- !lcc 'DS'
+- !lcsh 'China -- Politics and government'
+title: The Problem of China
+url: http://www.gutenberg.org/ebooks/13940
